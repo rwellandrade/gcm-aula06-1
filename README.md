@@ -3,9 +3,12 @@
 Ferramentas de controle de versão
 
 * RCV
+* Perfoce
 * CVS
 * Source Safe
-* Clear Case
+* Bazaar
+* SVN
 * Mercurial
-* Perfoce
-* Bitbucket
+* Clear Case
+* Git
+* Visual Studio Team Services
